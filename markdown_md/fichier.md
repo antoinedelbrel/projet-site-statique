@@ -15,4 +15,3 @@ Voila du texte.
 * 4
 
 Voila fin du markdown.
-
