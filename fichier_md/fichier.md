@@ -6,7 +6,6 @@
 ### Plus petit 
 #### Encore plus
 
-Voila du texte.
 
 * Ceci et une liste 
 * 1
@@ -14,4 +13,3 @@ Voila du texte.
 * 3
 * 4
 
-Voila fin du markdown.
